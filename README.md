@@ -1,5 +1,10 @@
 # CyberSecurityAwarenessCourse
 (still under construction)
+(English below)
+
+
+
+***
 
 This is the repository for all files regarding the Cyber Security Awareness course for Moodle, which I created for my Master's thesis. The course is under a CC-BY 
 [Cyber Security Awareness-Kurs](https://open.ec-ol.de/course/view.php?id=20) © 2024 by Lisa Braune und EUROKEY Software GmbH is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
