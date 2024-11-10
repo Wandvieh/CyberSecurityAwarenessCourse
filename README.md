@@ -1,5 +1,4 @@
 # CyberSecurityAwarenessCourse
-(still under construction)
 (English below)
 
 In diesem Repository liegen alle Dateien zum Cyber Security Awareness-Kurs für Moodle, den ich für meine Master-Arbeit erstellt habe.
