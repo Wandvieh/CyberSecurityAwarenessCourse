@@ -1,4 +1,6 @@
 # CyberSecurityAwarenessCourse
+![Kurslogo](https://github.com/user-attachments/assets/76f0b3e3-5fe2-4608-9df0-efb036b7498d)
+
 (English below)
 
 In diesem Repository liegen alle Dateien zum Cyber Security Awareness-Kurs für Moodle, den ich für meine Master-Arbeit erstellt habe.
