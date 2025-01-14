@@ -32,3 +32,5 @@ This course was created April to September 2024. Its purpose was to analyze the 
 - Malware and Hardware
 - Backups
 - Behavior in Cyber Security Incidents
+
+The majority of images were created by me.
