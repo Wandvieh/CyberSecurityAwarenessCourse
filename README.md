@@ -16,6 +16,8 @@ Er beinhaltet fünf Abschnitte:
 - Backups und Datensicherung
 - Verhalten bei IT-Notfällen
 
+Der Großteil der Grafiken wurden von mir erstellt.
+
 ***
 
 This is the repository for all files regarding the Cyber Security Awareness course for Moodle, which I created for my Master's thesis.
